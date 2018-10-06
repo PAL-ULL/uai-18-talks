@@ -40,7 +40,7 @@ Las líneas de investigación incluyen
 * la programación paralela y distribuida,
 * las técnicas de optimización de recursos,
 * lenguajes,
-* servicios web,
+* servicios y aplicaciones web,
 * tecnologías web para la educación
 
 
