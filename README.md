@@ -37,14 +37,17 @@ Las líneas de investigación incluyen
 
 * la enseñanza de la programación,
 * el control de versiones,
-* la programación paralela y distribuida,
+* la programación asíncrona, paralela y distribuida,
 * las técnicas de optimización de recursos,
 * lenguajes,
 * servicios web,
-* tecnologías web para la educación
+* tecnologías web
+* pensamiento computacional
 
 
 ## Fecha:
 
 *  La  Conferencia de Casiano sería el 30 de noviembre
 *  La Conferencia de Eduardo el 11 de diciembre.
+
+blah, blah
