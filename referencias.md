@@ -5,5 +5,3 @@ November 10, 2016](http://www.nebhe.org/thejournal/can-do-hub-the-github-of-comp
 * [The Limitations of GitHub for Writers](https://www.chronicle.com/blogs/profhacker/the-limitations-of-github-for-writers/48299)
 * [INTEGRACIÓN DE LAS HERRAMIENTAS "GITHUB EDUCATION" EN EL AULA](https://campusvirtual.ull.es/ocw/course/view.php?id=136)
 * [A guide to using GitHub for people who don't code and don't want to code.](https://github.com/tvanantwerp/github-for-non-programmers) tvanantwerp/github-for-non-programmers GitBook
-
-* otra cosa  

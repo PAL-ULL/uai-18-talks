@@ -7,5 +7,3 @@
 * Barbara Korousic (An application of advanced computer methods in Nutrition science)
 * Eduardo Segredo González (Planificación de menús saludables y equilibrados a través de técnicas de computación evolutiva)
 * Casiano Rodríguez León (Integración de las Herramientas ‘Git Hub Education’ en el aula)
-
-
