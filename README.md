@@ -1,7 +1,7 @@
 ## Slides from UAI'2018 
 
 
-## Conferencias:
+## Conferencias: 
 
 * Coral Calero Muñoz (Sostenibilidad Software: realidad o quimera)
 * Barbara Korousic (An application of advanced computer methods in Nutrition science)
