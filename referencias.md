@@ -6,4 +6,4 @@ November 10, 2016](http://www.nebhe.org/thejournal/can-do-hub-the-github-of-comp
 * [INTEGRACIÓN DE LAS HERRAMIENTAS "GITHUB EDUCATION" EN EL AULA](https://campusvirtual.ull.es/ocw/course/view.php?id=136)
 * [A guide to using GitHub for people who don't code and don't want to code.](https://github.com/tvanantwerp/github-for-non-programmers) tvanantwerp/github-for-non-programmers GitBook
 
-* otra cosa 
+* otra cosa mariposa
